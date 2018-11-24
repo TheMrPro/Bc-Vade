@@ -160,7 +160,7 @@ m.sendMessage(args)
 
 client.on('ready', () => {
     console.log(`Logged in as ${client.user.tag} !`);
-          client.user.setActivity("vb!help | vb!invite",{type: 'Vade'Community'});
+          client.user.setActivity("vb!help | vb!invite",{type: 'Vade, Community'});
   
   });
 
